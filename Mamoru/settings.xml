@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Settings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <MasterVolume>0</MasterVolume>
+  <MusicVolume>0</MusicVolume>
+  <OtherVolume>-34.687458</OtherVolume>
+  <MouseSensibility>7.8025713</MouseSensibility>
+  <MouseInvertX>false</MouseInvertX>
+  <MouseInvertY>false</MouseInvertY>
+  <Fullscreen>true</Fullscreen>
+  <QualityIndex>5</QualityIndex>
+  <ResolutionIndex>15</ResolutionIndex>
+</Settings>

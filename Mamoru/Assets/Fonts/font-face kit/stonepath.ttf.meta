@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a5e0aa97069d7fc46bb1cb995a0654b2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: stonepath
+  fontNames:
+  - stonepath
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8124d11ce18db1a478771d76c661a118, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
